@@ -5210,7 +5210,7 @@ info-Privacy {
     top: 2px;
     height: 22px;
     width: 12px;
-    background: #E3712E;
+    background: #056fad;
 }
 
 .single .singleUl {
@@ -5513,7 +5513,7 @@ info-Privacy {
 .single .app .overview .left h3 {
     font-size: 18px;
     font-weight: bold;
-    color: #E3712E;
+    color: #056fad;
     line-height: 18px;
     margin-bottom: 20px;
 }
@@ -5521,7 +5521,7 @@ info-Privacy {
 .single .app .overview .left p {
     font-size: 10px;
     font-weight: 400;
-    color: #E3712E!important;
+    color: #056fad!important;
 }
 
 .single .app .overview .right {
@@ -5538,7 +5538,7 @@ info-Privacy {
     content: "";
     width: 12px;
     height: 12px;
-    background: #E3712E;
+    background: #056fad;
     border-radius: 50%;
     z-index: 10;
 }
@@ -5550,7 +5550,7 @@ info-Privacy {
     content: "";
     width: 2px;
     height: 100%;
-    background: #e3c5b4;
+    background: #3182f1;
 }
 
 .single .app .overview .right p {
@@ -5666,7 +5666,7 @@ info-Privacy {
 }
 
 .c3Box3 .items {
-    background: #E3712E;
+    background: #056fad;
     height: 190px;
     display: flex;
     align-items: center;
@@ -5746,8 +5746,8 @@ info-Privacy {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-right: 2px solid #E3712E;
-    border-bottom: 2px solid #E3712E;
+    border-right: 2px solid #056fad;
+    border-bottom: 2px solid #056fad;
 }
 
 .c3Box4 .content .item:nth-child(3n) {
@@ -6237,7 +6237,7 @@ info-Privacy {
 }
 
 .factory5 .content p {
-    color: #E3712E;
+    color: #056fad;
     margin-top: 10px;
     font-size: 18px;
     font-weight: 500;
